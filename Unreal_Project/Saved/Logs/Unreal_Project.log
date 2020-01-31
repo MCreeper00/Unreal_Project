@@ -6760,3 +6760,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.31-19.18.12:364][544]LogHttp: Warning: 00000151DD5EA0C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2020.01.31-19.18.12:364][544]LogHttp: Warning: 00000151DD5EA0C0: libcurl info message cache 7 (Closing connection 9)
 [2020.01.31-19.18.12:697][545]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAF75C385-4359-CFC5-DC29-668793B26079%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-19.20.42:631][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.01.31-19.20.42:940][991]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/ThirdPersonExampleMap_Auto10157860148CB1A84A6BAB8BBCD522C78.tmp' to '../../../../../../Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.01.31-19.20.42:948][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.363
+[2020.01.31-19.20.42:948][991]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.363
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAF75C385-4359-CFC5-DC29-668793B26079%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x151009aff70 [can pipeline])
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.172.183) port 443 (#10))
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: 00000151B9CA5080: libcurl info message cache 7 (Closing connection 10)
+[2020.01.31-19.22.12:198][259]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAF75C385-4359-CFC5-DC29-668793B26079%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-19.23.54:575][817]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2020.01.31-19.23.56:258][918]Cmd: DUPLICATE
+[2020.01.31-19.23.56:258][918]Cmd: ACTOR DUPLICATE
+[2020.01.31-19.24.43:352][717]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door2)
+[2020.01.31-19.24.48:701][ 38]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door2)
+[2020.01.31-19.24.49:604][ 92]Cmd: DELETE
+[2020.01.31-19.24.49:604][ 92]Cmd: ACTOR DELETE
+[2020.01.31-19.24.49:663][ 92]LogEditorActor: Deleted Actor: Door_C
+[2020.01.31-19.24.49:704][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.01.31-19.24.49:706][ 92]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2020.01.31-19.24.51:800][217]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2020.01.31-19.25.08:316][208]Cmd: DUPLICATE
+[2020.01.31-19.25.08:316][208]Cmd: ACTOR DUPLICATE
+[2020.01.31-19.25.50:510][740]Cmd: DELETE
+[2020.01.31-19.25.50:510][740]Cmd: ACTOR DELETE
+[2020.01.31-19.25.50:512][740]LogEditorActor: Deleted Actor: Door_C
+[2020.01.31-19.25.50:556][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.01.31-19.25.50:557][740]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.01.31-19.25.54:162][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.01.31-19.26.04:163][554]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BluePrints/Door1.Door1
+[2020.01.31-19.26.06:532][679]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-19.26.06:532][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAF75C385-4359-CFC5-DC29-668793B26079%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x151009aff70 [can pipeline])
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.213.11.209) port 443 (#11))
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-19.26.11:972][  4]LogHttp: Warning: 00000152017191C0: libcurl info message cache 7 (Closing connection 11)
+[2020.01.31-19.26.11:989][  5]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAF75C385-4359-CFC5-DC29-668793B26079%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-19.26.12:290][ 23]LogEditorViewport: Clicking on Actor (LMB): Door1_C (Door1)
+[2020.01.31-19.26.13:157][ 75]Cmd: DELETE
+[2020.01.31-19.26.13:157][ 75]Cmd: ACTOR DELETE
+[2020.01.31-19.26.13:161][ 75]LogEditorActor: Deleted Actor: Door1_C
+[2020.01.31-19.26.13:209][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.01.31-19.26.13:210][ 75]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.01.31-19.26.24:923][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.01.31-19.26.24:929][763]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BluePrints/PuzzleDoor.SKEL_PuzzleDoor_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BluePrints/Door1.PackageMetaData'
+[2020.01.31-19.26.24:929][763]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BluePrints/PuzzleDoor.PuzzleDoor_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BluePrints/Door1.PackageMetaData'
+[2020.01.31-19.26.25:042][763]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/PuzzleDoorA072840C411565CBC6AE10BFCD84A61B.tmp' to '../../../../../../Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Content/ThirdPersonBP/Blueprints/BluePrints/PuzzleDoor.uasset'
+[2020.01.31-19.26.25:269][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.01.31-19.26.25:313][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.01.31-19.26.25:351][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.01.31-19.26.25:402][763]AssetCheck: New page: Asset Save: PuzzleDoor
+[2020.01.31-19.26.25:402][763]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BluePrints/PuzzleDoor.PuzzleDoor
