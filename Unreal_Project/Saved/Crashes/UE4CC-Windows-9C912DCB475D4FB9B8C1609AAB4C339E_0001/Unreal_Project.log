@@ -1,0 +1,1030 @@
+﻿Log file open, 02/01/20 00:07:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Unreal_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.104790
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Engine.ini]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Engine.ini]
+[2020.01.31-23.07.35:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Engine.ini]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Engine.ini]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.31-23.07.35:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Engine.ini]
+[2020.01.31-23.07.35:368][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Engine.ini]
+[2020.01.31-23.07.35:371][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:371][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.31-23.07.35:371][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.31-23.07.35:371][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.31-23.07.35:372][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.31-23.07.35:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.31-23.07.35:374][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.31-23.07.35:374][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.31-23.07.35:378][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.31-23.07.35:378][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.31-23.07.35:378][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.31-23.07.35:378][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.31-23.07.35:379][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Scalability.ini]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.31-23.07.35:380][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Config/Windows/Engine.ini]
+[2020.01.31-23.07.35:380][  0]LogInit: Computer: LAPTOP-NI3JV54U
+[2020.01.31-23.07.35:380][  0]LogInit: User: adria
+[2020.01.31-23.07.35:380][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.01.31-23.07.35:380][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.31-23.07.35:381][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.01.31-23.07.35:381][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.31-23.07.35:381][  0]LogMemory: Process Physical Memory: 105.71 MB used, 105.71 MB peak
+[2020.01.31-23.07.35:381][  0]LogMemory: Process Virtual Memory: 101.55 MB used, 101.55 MB peak
+[2020.01.31-23.07.35:381][  0]LogMemory: Physical Memory: 6145.27 MB used,  1889.04 MB free, 8034.30 MB total
+[2020.01.31-23.07.35:381][  0]LogMemory: Virtual Memory: 5159.22 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.01.31-23.07.35:384][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.31-23.07.35:412][  0]LogInit: Using OS detected language (ca-ES).
+[2020.01.31-23.07.35:412][  0]LogInit: Using OS detected locale (ca-ES).
+[2020.01.31-23.07.35:413][  0]LogTextLocalizationManager: No localization for 'ca-ES' exists, so 'en' will be used for the language.
+[2020.01.31-23.07.35:639][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.31-23.07.35:685][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.31-23.07.35:685][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.31-23.07.35:936][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.31-23.07.35:936][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.31-23.07.35:936][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.31-23.07.35:936][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.31-23.07.36:096][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.01.31-23.07.36:096][  0]LogD3D11RHI:       6052/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.31-23.07.36:114][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.01.31-23.07.36:114][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.31-23.07.36:118][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.31-23.07.36:118][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.31-23.07.36:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.31-23.07.36:172][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.31-23.07.36:173][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.31-23.07.36:173][  0]LogWindows: EnumDisplayDevices:
+[2020.01.31-23.07.36:173][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.01.31-23.07.36:173][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.31-23.07.36:174][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.31-23.07.36:174][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.01.31-23.07.36:175][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.01.31-23.07.36:175][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.01.31-23.07.36:175][  0]LogD3D11RHI:   Driver Version: 419.72 (internal:25.21.14.1972, unified:419.72)
+[2020.01.31-23.07.36:175][  0]LogD3D11RHI:      Driver Date: 3-18-2019
+[2020.01.31-23.07.36:175][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.01.31-23.07.36:241][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.31-23.07.36:241][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.31-23.07.36:260][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.31-23.07.36:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.31-23.07.36:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.31-23.07.36:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.31-23.07.36:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.31-23.07.36:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.31-23.07.36:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.31-23.07.36:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.31-23.07.36:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.31-23.07.36:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.31-23.07.36:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.31-23.07.36:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.31-23.07.36:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.31-23.07.36:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.31-23.07.36:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.31-23.07.36:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.31-23.07.36:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.31-23.07.36:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.31-23.07.36:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.31-23.07.36:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.31-23.07.36:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.31-23.07.36:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.31-23.07.36:915][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.31-23.07.36:919][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.31-23.07.36:953][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Intermediate/Shaders/WorkingDirectory/20720/).
+[2020.01.31-23.07.36:953][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/adria/AppData/Local/Temp/UnrealShaderWorkingDir/244AFA4B4FCE84505CCA889866221575/'.
+[2020.01.31-23.07.36:954][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.31-23.07.36:954][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.31-23.07.36:954][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.31-23.07.38:041][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.31-23.07.38:115][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.31-23.07.38:115][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.31-23.07.38:115][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.31-23.07.38:115][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.31-23.07.38:115][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.31-23.07.38:115][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.31-23.07.38:131][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.31-23.07.38:131][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.31-23.07.38:131][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.31-23.07.38:133][  0]LogDerivedDataCache: Using Local data cache path C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.31-23.07.38:133][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.31-23.07.38:133][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.31-23.07.38:179][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.31-23.07.38:183][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.31-23.07.38:183][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.31-23.07.38:259][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2020.01.31-23.07.38:687][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.31-23.07.38:923][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.31-23.07.38:923][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.31-23.07.38:923][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.31-23.07.38:923][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.31-23.07.38:923][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.31-23.07.38:944][  0]LogNetVersion: Unreal_Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1551711951)
+[2020.01.31-23.07.40:579][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.077662 seconds
+[2020.01.31-23.07.40:589][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.01.31-23.07.40:589][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.01.31-23.07.40:589][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.31-23.07.41:169][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.31-23.07.41:173][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.31-23.07.41:241][  0]SourceControl: Source control is disabled
+[2020.01.31-23.07.41:241][  0]SourceControl: Source control is disabled
+[2020.01.31-23.07.41:242][  0]SourceControl: Source control is disabled
+[2020.01.31-23.07.41:244][  0]SourceControl: Source control is disabled
+[2020.01.31-23.07.41:245][  0]SourceControl: Source control is disabled
+[2020.01.31-23.07.41:356][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.31-23.07.41:369][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.31-23.07.41:369][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.31-23.07.41:491][  0]LogOcInput: OculusInput pre-init called
+[2020.01.31-23.07.41:501][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.31-23.07.41:501][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.31-23.07.41:604][  0]LogEngine: Initializing Engine...
+[2020.01.31-23.07.41:605][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.31-23.07.41:606][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.31-23.07.42:136][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.31-23.07.42:145][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.31-23.07.42:264][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.31-23.07.42:264][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.31-23.07.42:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.31-23.07.42:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.31-23.07.42:264][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.31-23.07.42:264][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.31-23.07.42:264][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.31-23.07.42:264][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.31-23.07.42:264][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.31-23.07.42:264][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.31-23.07.42:276][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.31-23.07.42:425][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.01.31-23.07.42:432][  0]LogInit: FAudioDevice initialized.
+[2020.01.31-23.07.42:432][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.31-23.07.42:601][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/adria/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.31-23.07.42:607][  0]LogInit: Texture streaming: Enabled
+[2020.01.31-23.07.42:619][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.31-23.07.42:619][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.31-23.07.42:622][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.31-23.07.42:720][  0]LogInit: Transaction tracking system initialized
+[2020.01.31-23.07.42:733][  0]BlueprintLog: New page: Editor Load
+[2020.01.31-23.07.42:774][  0]LocalizationService: Localization service is disabled
+[2020.01.31-23.07.43:190][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Content/' took 0.01s
+[2020.01.31-23.07.43:190][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.31-23.07.43:190][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.31-23.07.44:196][  0]SourceControl: Source control is disabled
+[2020.01.31-23.07.44:204][  0]LightingResults: New page: Lighting Build
+[2020.01.31-23.07.44:205][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-23.07.44:206][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-23.07.44:206][  0]MapCheck: New page: Map Check
+[2020.01.31-23.07.44:206][  0]LightingResults: New page: Lighting Build
+[2020.01.31-23.07.44:257][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.01.31-23.07.45:743][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.31-23.07.45:846][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.31-23.07.45:967][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-23.07.46:026][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.01.31-23.07.46:026][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-23.07.46:027][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,299ms to complete.
+[2020.01.31-23.07.46:027][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.831
+[2020.01.31-23.07.46:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-23.07.46:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-23.07.46:283][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-23.07.46:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-23.07.46:308][  0]LogCollectionManager: Loaded 0 collections in 0.002914 seconds
+[2020.01.31-23.07.46:327][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Saved/Collections/' took 0.00s
+[2020.01.31-23.07.46:327][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Content/Developers/adria/Collections/' took 0.00s
+[2020.01.31-23.07.46:327][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adria/Desktop/Projectes Unreal/GitHub/Unreal_Project/Unreal_Project/Content/Collections/' took 0.00s
+[2020.01.31-23.07.46:327][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 3017 classes and 720 folders.
+[2020.01.31-23.07.46:332][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.31-23.07.47:054][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.31-23.07.47:297][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.31-23.07.47:304][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.31-23.07.47:319][  0]LogSlate: Took 0.010358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.31-23.07.47:454][  0]LogRenderer: Reallocating scene render targets to support 928x432 Format 10 NumSamples 1 (Frame:1).
+[2020.01.31-23.07.47:685][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.31-23.07.47:685][  0]LogLoad: (Engine Initialization) Total time: 14.21 seconds
+[2020.01.31-23.07.47:685][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.31-23.07.47:753][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.31-23.07.47:820][  0]LogSlate: Took 0.025185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.31-23.08.04:520][497]LogAssetRegistry: Asset discovery search completed in 26.2618 seconds
+[2020.01.31-23.08.04:525][497]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.232.133.254) port 443 (#0))
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.10.47:890][399]LogHttp: Warning: 0000019D53469080: libcurl info message cache 7 (Closing connection 0)
+[2020.01.31-23.10.47:923][400]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.171.73.202) port 443 (#1))
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.14.47:851][595]LogHttp: Warning: 0000019D63D2C400: libcurl info message cache 7 (Closing connection 1)
+[2020.01.31-23.14.47:887][596]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.15.29:841][791]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.30:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.30:841][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.31:341][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.31:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.32:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.32:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.33:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.33:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.34:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.34:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.35:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.35:843][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.36:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.36:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.37:343][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.37:843][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.38:343][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.38:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.39:343][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.39:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.40:343][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.40:843][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.41:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.41:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.42:343][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.42:843][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.43:344][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.43:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.44:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.44:843][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.45:343][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.45:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.46:342][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.46:842][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.15.51:843][792]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2020.01.31-23.16.08:472][248]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.08:974][249]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.22:629][635]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.23:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.23:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.24:130][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.24:631][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.25:130][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.25:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.26:130][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.26:631][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.27:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.27:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.28:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.28:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.29:130][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.29:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.30:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.30:631][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.31:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.31:631][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.32:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.32:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.33:130][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.33:631][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.34:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.34:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.35:132][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.35:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.36:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.36:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.37:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.37:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.38:131][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.38:630][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.39:130][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.39:632][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.16.44:632][636]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2020.01.31-23.16.49:633][636]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s)
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.226.55.227) port 443 (#2))
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.18.47:928][ 87]LogHttp: Warning: 0000019D63D2D6C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.18.47:929][ 87]LogHttp: Warning: 0000019D63D2D6C0: libcurl info message cache 7 (Closing connection 2)
+[2020.01.31-23.18.47:958][ 88]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.19.12:396][809]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.12:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.13:397][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.13:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.14:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.14:897][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.15:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.15:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.16:397][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.16:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.17:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.17:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.18:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.18:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.19:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.19:899][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.20:399][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.20:899][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.21:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.21:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.22:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.22:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.23:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.23:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.24:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.24:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.25:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.25:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.26:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.26:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.27:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.27:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.28:398][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.28:898][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.19.33:899][810]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2020.01.31-23.19.38:899][810]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s)
+[2020.01.31-23.19.43:900][810]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s)
+[2020.01.31-23.19.48:899][810]LogD3D11RHI: GetQueryData is taking a very long time (20.0 s)
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.196.69.246) port 443 (#3))
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.22.47:870][ 65]LogHttp: Warning: 0000019D63D2E840: libcurl info message cache 7 (Closing connection 3)
+[2020.01.31-23.22.47:905][ 66]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.232.20.110) port 443 (#4))
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.26.47:847][259]LogHttp: Warning: 0000019D64168680: libcurl info message cache 7 (Closing connection 4)
+[2020.01.31-23.26.47:885][260]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.27.23:369][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.23:870][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.24:370][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.24:871][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.25:371][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.25:870][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.26:371][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.26:871][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.27:372][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.27:870][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.28:372][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.28:872][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.29:371][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.29:872][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.30:370][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.27.59:973][183]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.00:474][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.00:974][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.01:473][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.01:975][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.02:474][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.02:975][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.03:474][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.03:974][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.04:474][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.04:975][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.05:474][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.05:974][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.06:474][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.06:975][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.07:475][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.07:974][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.08:474][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.08:974][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.09:475][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.28.09:975][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.31:407][419]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.31:910][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.32:409][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.32:910][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.33:410][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.33:910][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.34:410][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.34:909][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.35:409][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.35:909][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.36:410][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.36:910][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.37:409][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.37:910][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.165.193.153) port 443 (#5))
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.30.47:891][715]LogHttp: Warning: 0000019D6416A980: libcurl info message cache 7 (Closing connection 5)
+[2020.01.31-23.30.47:920][716]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.32.11:309][201]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.90.14) port 443 (#6))
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.34.47:950][905]LogHttp: Warning: 0000019D64168E00: libcurl info message cache 7 (Closing connection 6)
+[2020.01.31-23.34.47:987][906]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.36.31:356][  4]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.31:858][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.32:358][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.32:858][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.33:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.33:858][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.34:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.34:857][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.35:357][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.35:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.36:358][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.36:858][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.37:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.37:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.38:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.38:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.39:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.39:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.40:358][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.40:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.41:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.41:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.42:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.42:858][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.43:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.43:858][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.44:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.44:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.45:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.45:858][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.46:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.46:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.47:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.47:858][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.48:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.48:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.49:358][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.49:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.50:359][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.50:859][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.36.55:859][  5]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2020.01.31-23.37.00:859][  5]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s)
+[2020.01.31-23.37.05:860][  5]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s)
+[2020.01.31-23.38.53:694][114]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.54:197][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.54:696][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.55:197][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.55:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.56:197][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.56:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.57:196][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.57:696][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.58:196][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.58:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.59:197][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.38.59:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.00:196][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.00:696][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.01:197][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.01:698][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.02:197][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.02:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.03:196][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.03:696][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.04:196][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.04:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.05:198][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.05:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.06:198][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.06:698][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.07:198][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.07:696][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.08:197][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.08:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.09:197][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.09:697][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.35:305][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.35:807][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.36:307][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.36:808][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.37:307][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.37:807][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.38:307][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.38:808][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.39:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.39:807][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.40:307][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.40:807][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.41:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.41:807][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.42:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.42:808][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.43:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.43:808][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.44:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.44:807][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.45:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.45:808][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.46:307][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.46:808][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.47:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.47:809][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.48:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.48:809][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.49:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.49:808][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.50:309][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.50:808][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.51:308][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.51:809][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.52:309][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.52:809][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.53:309][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.53:809][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.54:309][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.39.59:310][865]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2020.01.31-23.40.04:309][865]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s)
+[2020.01.31-23.40.09:310][865]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s)
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.25.43) port 443 (#7))
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: 0000019D6416BEC0: libcurl info message cache 7 (Closing connection 7)
+[2020.01.31-23.40.11:811][874]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19d392f7f70 [can pipeline])
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.213.248) port 443 (#8))
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.31-23.44.47:865][175]LogHttp: Warning: 0000019D6416B880: libcurl info message cache 7 (Closing connection 8)
+[2020.01.31-23.44.47:900][176]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F9DD625-4A6D-144D-27B4-B2861D41A7C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=a2a2455a43edbb59cec18b8d5a4d2e77%7C687ef0b5a3ed48e78d4fcfe543ca805e%7C319de974-fdc1-46d7-86ba-4fc84d6ab591&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.31-23.45.04:560][664]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.05:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.05:561][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.06:063][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.06:561][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.07:063][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.07:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.08:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.08:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.09:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.09:561][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.10:063][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.10:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.11:063][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.11:563][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.12:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.12:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.13:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.13:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.14:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.14:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.15:063][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.15:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.16:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.16:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.17:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.17:563][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.18:062][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.18:563][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.19:063][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.19:562][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.20:063][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.20:563][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.21:063][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.31-23.45.26:064][665]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2020.01.31-23.45.31:063][665]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s)
+[2020.01.31-23.45.36:063][665]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s)
+[2020.01.31-23.45.41:064][665]LogD3D11RHI: GetQueryData is taking a very long time (20.0 s)
+[2020.01.31-23.45.46:063][665]LogD3D11RHI: GetQueryData is taking a very long time (25.0 s)
+[2020.01.31-23.45.51:072][665]LogD3D11RHI: GetQueryData is taking a very long time (30.0 s)
+[2020.01.31-23.45.51:072][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (30.0 s) (ErrorCode 00000001)
+[2020.01.31-23.45.51:072][665]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
