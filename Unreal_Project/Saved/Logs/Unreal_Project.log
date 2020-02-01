@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 01/31/20 21:49:11
+=======
+﻿Log file open, 01/31/20 20:56:27
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 01/31/20 20:56:27
 >>>>>>> Stashed changes
@@ -19,7 +23,11 @@ LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.064299
+=======
+LogStats: Stats thread started at 0.076181
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.076181
 >>>>>>> Stashed changes
@@ -179,6 +187,7 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2020.01.31-20.49.11:214][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -2059,6 +2068,8 @@ Script Stack (0 frames):
 [2020.01.31-22.16.08:592][523]LogCore: Engine exit requested (reason: Win RequestExit)
 [2020.01.31-22.16.08:597][523]Log file closed, 01/31/20 23:16:08
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 [2020.01.31-19.56.28:088][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -15616,6 +15627,9 @@ Script Stack (0 frames):
 [2020.01.31-20.42.59:578][548]LogExit: Exiting.
 [2020.01.31-20.42.59:588][548]Log file closed, 01/31/20 21:42:59
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
