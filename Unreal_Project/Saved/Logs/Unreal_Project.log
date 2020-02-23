@@ -2504,3 +2504,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.23-22.37.57:180][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.02.23-22.37.57:716][293]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
 [2020.02.23-22.37.57:717][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-22.39.24:306][293]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-22.39.24:332][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.23-22.39.25:124][293]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-22.39.25:125][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
